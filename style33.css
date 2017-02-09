@@ -7,7 +7,12 @@
 	line-height: 150%;
 	font-family: Georgia, "Times New Roman", Times, serif;
 	color: #333333;
-	background-color: #efeee7;
+	/*background-color: #efeee7;*/
+
+}
+	body {
+
+	background-image: url("..picture/capture.png");
 
 }
 
@@ -49,4 +54,9 @@ a {
 	width: 200px;
 	height: 200px;
 }
-	
+	#pic {
+		width: 400px;
+		height: 550%;
+		
+		
+	}
